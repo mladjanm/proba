@@ -6,4 +6,5 @@ int main() {
   prinf("PROBICAA");
   g
   
+  i de mo
 }
