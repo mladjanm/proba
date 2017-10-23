@@ -1,2 +1,3 @@
 void func() {
+	int a;
 }
