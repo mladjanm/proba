@@ -1,2 +1,1 @@
-int gg() {}t
-jjssserere
+int gg() {}
