@@ -4,5 +4,5 @@
 
 int main() {
   prinf("PROBICAA");
-  func();fddrrrasdasd
+  func();fddrrrasdasdd
 }
