@@ -4,5 +4,5 @@ void func() {
 	++a;
 	--a;
 	seenci
-	neces moci da sprecisdd
+	neces moci da sprecisddaa
 }
