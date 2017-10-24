@@ -3,7 +3,7 @@
 
 
 int main() {
-	fef
+	fefs
 	gg();ttffffafa
   prinf("PROBICAA");
   func();

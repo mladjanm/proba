@@ -6,4 +6,4 @@ void func() {
 	seenci
 	neces moci da sprecisddaaddasgds
 }
-faf
+fafs
