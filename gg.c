@@ -1,5 +1,5 @@
 int gg() {
 	
 	int k;
-	f
+	fsa
 }
