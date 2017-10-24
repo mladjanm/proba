@@ -7,5 +7,5 @@ int main() {
 	gg();
   prinf("PROBICAA");
   func();
-  
+  gg();
 }
