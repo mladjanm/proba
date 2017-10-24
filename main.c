@@ -8,5 +8,5 @@ int main() {
   prinf("PROBICAA");
   func();
   gg();
-  fss
+  fsssdsd
 }
