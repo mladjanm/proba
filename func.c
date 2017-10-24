@@ -3,5 +3,5 @@ void func() {
 	
 	++a;
 	--a;
-	
+	seenci
 }
