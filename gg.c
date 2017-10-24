@@ -1,4 +1,5 @@
 int gg() {
 	
 	int k;
+	
 }
