@@ -1,3 +1,3 @@
 void func() {
-	int a;
+	int a = 2;
 }
