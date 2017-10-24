@@ -4,7 +4,7 @@
 
 int main() {
 	
-	gg();ttfff
+	gg();ttffffafa
   prinf("PROBICAA");
   func();
   gg();
