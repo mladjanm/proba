@@ -3,6 +3,7 @@ void func() {
 	
 	++a;
 	--a;
+	PULL ALL
 
 }
 fafsa
