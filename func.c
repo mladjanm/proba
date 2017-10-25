@@ -3,6 +3,6 @@ void func() {
 	
 	++a;
 	--a;
-	seenci
+
 }
 fafs
