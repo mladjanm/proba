@@ -1,6 +1,6 @@
 #include <stdio.h>ew
 
-
+s
 
 int main() {
 	fefsdasdas
