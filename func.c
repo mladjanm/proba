@@ -5,4 +5,4 @@ void func() {
 	--a;
 
 }
-fafs
+fafsa
