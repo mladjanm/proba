@@ -4,6 +4,5 @@ void func() {
 	++a;
 	--a;
 	seenci
-	neces moci da sprecisddaaddasgds
 }
 fafs
