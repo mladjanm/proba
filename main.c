@@ -1,12 +1,8 @@
-#include <stdio.h>ew
-
-s
+#include <stdio.h>
 
 int main() {
-
+	g();
+	prinf("PROBICAA");
+	func();
 	gg();
-  prinf("PROBICAA");
-  func();
-  gg();ff
-  fsssdsd
 }
