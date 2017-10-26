@@ -3,8 +3,8 @@
 s
 
 int main() {
-	fefsdasdas
-	gg();ttffffafa
+
+	gg();
   prinf("PROBICAA");
   func();
   gg();ff
