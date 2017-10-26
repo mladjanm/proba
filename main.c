@@ -1,4 +1,4 @@
-#include <stdio.h>sdad
+#include <stdio.h>
 
 int main() {
 	g();
@@ -6,4 +6,3 @@ int main() {
 	func();
 	gg();
 }
-dsds
