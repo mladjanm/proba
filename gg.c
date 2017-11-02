@@ -4,4 +4,4 @@ int gg() {
 	fsaasdaasdasdsa
 }
 
-POSLEDNJI COMMITd
+POSLEDNJI COMMITdssss
